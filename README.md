@@ -17,7 +17,7 @@ Operations supported by AVL Tree `Pointer to Pointer` Implementation.
 
 ![Console](UI.png)
 
-# Data Structures
+# Data Structure
 ```C
 typedef struct avlNode {
 	struct avlNode* left;
