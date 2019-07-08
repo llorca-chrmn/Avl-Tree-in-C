@@ -1,4 +1,4 @@
-# Overwiew
+# Overview
 
 This is an AVL Tree in C `Pointer to Pointer` implementation. It is meant to help for ~school~ self-balancing tree programming projects.
 
