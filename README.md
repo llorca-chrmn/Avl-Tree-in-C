@@ -15,7 +15,7 @@ Operations supported by AVL Tree `Pointer to Pointer` Implementation.
 - Delete
 - Display (in-order)
 
-![Console](UI.jpg)
+![Console](UI.png)
 
 # Data Structures
 ```C
